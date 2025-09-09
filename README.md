@@ -90,7 +90,7 @@
 - **未来方向**：优化计算效率，适配边缘设备部署。
 
 ## 7. 运行环境
-![配准和融合结果](https://img.picui.cn/free/2025/05/23/683027a9cc141.png)  
+![配准和融合结果](https://youke1.picui.cn/s1/2025/09/09/68c00fa31141e.jpg)  
 ### 硬件配置
 - CPU: Intel Core i5-12600kf @ 3.60GHz  
 - GPU: 2× NVIDIA GeForce RTX 3060 12GB  
