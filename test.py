@@ -13,7 +13,7 @@ import numpy as np  # 提供矩阵计算支持
 import matplotlib.cm as cm  # 提供颜色映射的支持
 
 #2. 定义伽马变换函数
-# 先将 RGB 图像转换为 HSV（色相、饱和度、亮度）空间，对亮度通道进行非线性变换。
+# 先将 RGB 图像转换为 HSV（色相、饱和度·、亮度）空间，对亮度通道进行非线性变换。
 #采用HSV色彩空间分离亮度通道（V），避免直接处理RGB通道的颜色失真
 def gamma_transform(img, gamma):
     """
